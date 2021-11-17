@@ -73,7 +73,7 @@ function LandingPage() {
 
             }
 
-            <div style={{ width: '85%', margin: '1rem auto' }}>
+            <div style={{ width: '70%', margin: '1rem auto' }}>
 
                 <Title level={2} > Movies by latest </Title>
                 <hr />
